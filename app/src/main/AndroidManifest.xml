@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ImageSearchWithDi">
         <activity
-            android:name=".GalleryFragment"
+            android:name=".ui.GalleryFragment"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

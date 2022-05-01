@@ -1,4 +1,4 @@
-package com.example.imagesearchwithdi
+package com.example.imagesearchwithdi.data
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
