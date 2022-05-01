@@ -8,7 +8,9 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import com.example.imagesearchwithdi.R
 import com.example.imagesearchwithdi.databinding.ActivityGalleryFragmentBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class GalleryFragment : Fragment() {
     lateinit var galleryBinding: ActivityGalleryFragmentBinding
 
